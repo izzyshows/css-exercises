@@ -70,3 +70,13 @@ button.cancel {
 .left-column {
     padding-right: 15px;
 }
+
+.header {
+    font-weight: bold;
+    font-size: larger;
+}
+
+.text {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
